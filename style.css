@@ -1,5 +1,5 @@
 
-
 body {
-  background: url("Beach Guam.JPG") no-repeat fixed center;
+ background-image: url("Beach Guam.JPG");
+ background-color: #cccccc;
 }
